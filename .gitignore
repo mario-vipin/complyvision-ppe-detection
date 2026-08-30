@@ -1,0 +1,13 @@
+venv/
+__pycache__/
+*.pyc
+.streamlit/
+runs/
+*.cache
+PPEs-8/
+Construction-Site-Safety-27/
+weights/
+yolov8n.pt
+yolo26n.pt
+best (1).pt
+Construction-Site-Safety-30/
