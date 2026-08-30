@@ -4,7 +4,7 @@
 
 ComplyVision is a computer vision system that detects personal protective equipment (PPE) and face mask compliance in images and live webcam feed. Built by fine-tuning YOLOv8 on a custom-labeled dataset, it identifies 10 classes — including hardhats, masks, safety vests, and their corresponding non-compliance states — and is deployed as a live web application.
 
-🔗 **[Live Demo]([YOUR_STREAMLIT_URL_HERE](https://complyvision-ppe-detection-awb7ujhvaxwpaqtlcgu9mh.streamlit.app/)**
+🔗 **[Live Demo][YOUR_STREAMLIT_URL_HERE](https://complyvision-ppe-detection-awb7ujhvaxwpaqtlcgu9mh.streamlit.app/)**
 
 ---
 
