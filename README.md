@@ -53,5 +53,3 @@ Fine-tuned YOLOv8n on the [Construction Site Safety dataset](https://universe.ro
 - **Deployment**: Streamlit
 - **Training**: Google Colab (Tesla T4 GPU)
 - **Dataset tooling**: Roboflow
-
-## Project Structure
